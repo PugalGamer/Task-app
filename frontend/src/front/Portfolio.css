@@ -1,0 +1,40 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-famliy: "Poppins", sans-serif;
+}
+.portfolio {
+  display: flex;
+  min-height: 100vh;
+  backgroundcolor: white;
+  background-color: #25252b;
+}
+
+.head h2 {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.head ul {
+  display: flex;
+  margin-left: 900px;
+  list-style: none;
+  margin-right: 20px;
+}
+.head ul li {
+  list-style: none;
+  margin: 0 10px 0 10px;
+}
+.head ul li a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.head ul li a:hover {
+  background-color: skyblue;
+  color: white;
+  border-radius: 2px;
+} */
